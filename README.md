@@ -14,8 +14,12 @@
   </p>
 </p>
 
+## Basic Syntax
+- [data structure](#data-structure)
+- [flow controal](#flow-control)
+- 
 
-## Table of contents
+## Packages
 
 - [asyncio](#asyncio)
 - [io](#status)
