@@ -30,4 +30,8 @@
 ## asyncio
 [Note](https://github.com/yuting1214/Python_Note/blob/master/note/async.md)
 
+## Design pattern
 
+1. Merge multiple csv into a single file in pandas
+2. Manipulate txt using with context.
+3. 
