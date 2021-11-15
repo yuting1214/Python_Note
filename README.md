@@ -32,6 +32,15 @@
 
 ## Design pattern
 
-1. Merge multiple csv into a single file in pandas
+1. [Merge multiple csv into a single file in pandas](https://github.com/yuting1214/Python_Note/blob/master/pattern/Merge_file.py)
+
 2. Manipulate txt using with context.
-3. 
+ 
+
+## Virtual Environment
+
+1. Anaconda
+conda env list
+conda activate ./envs
+3. enve
+4. 
